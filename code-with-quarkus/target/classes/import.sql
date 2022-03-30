@@ -1,0 +1,1 @@
+-- insert into Startup (id, nome, qtd) values (nextval('hibernate_sequence'), 'julia', 12);
